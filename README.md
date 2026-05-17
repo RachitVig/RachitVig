@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">Hey 👋, I'm Rachit</h2>
-<p align="center"><b>🚀 MERN Stack Dev |💡 Coder with Vision</b></p>
+<p align="center"><b>🚀 Full Stack Dev |💡 Coder with Vision</b></p>
 
 <p align="center">
   <a href="https://twitter.com/vigRachit" target="_blank">
@@ -26,9 +26,9 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **Full Stack Projects**
-- 🌱 Learning: `OpenAI API`, `WebRTC`, `Payment Integration`
-- 🎯 Goal: **To Build Scalable Projects**
+- 🔭 Currently building **AI Integrated SAAS Products**
+- 🌱 Learning: `MobileDev`, `Deployment`
+- 🎯 Goal: **To Build Scalable Products**
 
 ---
 
