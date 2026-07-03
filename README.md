@@ -1,11 +1,6 @@
-<!-- Header Block -->
+<!-- Header Block - Dynamic Wave Framing -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e2e&height=140&section=header&text=Rachit%20Vig&fontSize=40&fontColor=ffffff" alt="Header Banner" />
-</p>
-
-<!-- Profile Picture & Branding -->
-<p align="center">
-  <img src="https://i.postimg.cc/K80tTnCL/portfolio-image.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #1e1e2e;" alt="Rachit Vig" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=180&section=header&text=Rachit%20Vig&fontSize=45&fontColor=ffffff&animation=twinkle" alt="Header Banner" />
 </p>
 
 <h2 align="center">Software Engineer / Full Stack Developer</h2>
@@ -13,10 +8,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/vigrachit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/vigRachit" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=vigRachit&color=1e1e2e&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
@@ -24,7 +19,7 @@
 
 ###  Profile Overview
 
--  **AI & Integrations:** Experienced in building **AI Agents, Conversational AI**, and **LLM Integration workflows**.
+-  **AI & Integrations:** Experience in building **AI Agents, Conversational AI**, and **LLM Integration workflows**.
 -  **Full-Stack Systems:** Engineering scalable architectures with a focus on robust backend logic and seamless frontend state management.
 -  **Third-Party Ecosystems:** Hands-on experience integrating **HubSpot CRM, WhatsApp Business API, and Twilio** for production-grade automation.
 -  **Core Principles:** Basic foundation in **Data Structures (DSA)**, Object-Oriented Programming, and clean database normalization.
@@ -79,6 +74,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
