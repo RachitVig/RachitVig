@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=180&section=header&text=Rachit%20Vig&fontSize=45&fontColor=ffffff&animation=twinkle" alt="Header Banner" />
 </p>
 
-<h2 align="center">Software Engineer / Full Stack Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/vigrachit" target="_blank">
