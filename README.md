@@ -27,7 +27,7 @@
 -  **AI & Integrations:** Experienced in building **AI Agents, Conversational AI**, and **LLM Integration workflows**.
 -  **Full-Stack Systems:** Engineering scalable architectures with a focus on robust backend logic and seamless frontend state management.
 -  **Third-Party Ecosystems:** Hands-on experience integrating **HubSpot CRM, WhatsApp Business API, and Twilio** for production-grade automation.
--  **Core Principles:** Strong foundation in **Data Structures (DSA)**, Object-Oriented Programming, and clean database normalization.
+-  **Core Principles:** Basic foundation in **Data Structures (DSA)**, Object-Oriented Programming, and clean database normalization.
 
 ---
 
