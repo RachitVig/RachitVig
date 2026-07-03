@@ -1,37 +1,58 @@
-<!-- Background Banner with Profile Pic on Top -->
+<!-- Header Section with Clean Typography -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e2e&height=140&section=header&text=Rachit%20Vig&fontSize=40&fontColor=ffffff" alt="Header Banner" />
 </p>
 
+<!-- Profile Picture & Subtitles -->
 <p align="center">
-  <img src="https://i.postimg.cc/K80tTnCL/portfolio-image.png" width="140" height="140" style="border-radius: 50%;" />
+  <img src="https://i.postimg.cc/K80tTnCL/portfolio-image.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #1e1e2e;" alt="Profile Picture" />
 </p>
 
-<h2 align="center">Hey 👋, I'm Rachit</h2>
-<p align="center"><b>🚀 Full Stack Dev |💡 Coder with Vision</b></p>
+<h2 align="center">Software Engineer / Full Stack Developer</h2>
 
 <p align="center">
-  <a href="https://twitter.com/vigRachit" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/vigrachit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://github.com/vigRachit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a> -->
+  <a href="https://twitter.com/vigRachit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vigRachit&color=41436a&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 💻 About Me
 
-- 🔭 Currently building **AI Integrated SAAS Products**
-- 🌱 Learning: `MobileDev`, `Deployment`
-- 🎯 Goal: **To Build Scalable Products**
+- 🚀 Focused on building **Scalable Backend Architectures** and **AI-Integrated SaaS Solutions**.
+- 🛠️ Currently deep-diving into **Cloud Infrastructure, Kubernetes, and Advanced Deployment Workflows**.
+- ⚙️ Passionate about writing clean, modular code and designing plug-and-play architectural components.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<p align="left">
+  <!-- Backend & Core Languages -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B0A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <br/>
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
+### 📊 GitHub Analytics
 
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigRachit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigRachit&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
